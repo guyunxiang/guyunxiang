@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**guyunxiang/guyunxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👋 Hi there, I'm YunXiang Gu</h3>
+<p>Frontend Engineer | Passionate about building beautiful web experiences</p>
 
-Here are some ideas to get you started:
+<!-- Stats -->
+![Stats](https://github-readme-stats.vercel.app/api?username=guyunxiang&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guyunxiang&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5)
+
+<!-- Streak（连续提交天数，可选） -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=guyunxiang&theme=transparent&hide_border=true)
+
+</div>
