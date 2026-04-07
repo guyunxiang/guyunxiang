@@ -1,17 +1,20 @@
-<div align="center">
+👋 Hi there, I'm YunXiang Gu (Shawn Gu)
 
-<h3>👋 Hi there, I'm YunXiang Gu</h3>
-<h4>Full-Stack Software Engineer| Crafting delightful digital experiences with code</h4>
-<p>Passionate about building beautiful, high-performance digital experiences across frontend, full-stack, mobile apps, game development, and AI applications.</p>
+**Full-Stack Software Engineer | Crafting delightful digital experiences with code**
 
+Passionate about building beautiful, high-performance applications across **frontend engineering**, **full-stack development**, **mobile apps**, **game development**, and **AI-powered solutions**. I love turning creative ideas into elegant, user-centric products.
 
-<!-- Stats -->
+---
+
+### 🚀 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=guyunxiang&show_icons=true&theme=github&hide_border=true)
 
-<!-- Top Languages -->
+### 💡 Most Used Languages
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guyunxiang&layout=compact&theme=github&hide_border=true)
 
-<!-- Streak -->
+### 🔥 Current Streak & Contributions
 ![GitHub Streak](https://streak-stats.demolab.com/?user=guyunxiang&theme=transparent&hide_border=true)
 
-</div>
+### 🛠️ Technologies & Tools
+React • Next.js • TypeScript • Node.js • Python • Tailwind • Unity • TensorFlow 
