@@ -1,4 +1,4 @@
-👋 Hi there, I'm YunXiang Gu (Shawn Gu)
+👋 Hi there, I'm YunXiang
 
 **Full-Stack Software Engineer | Crafting delightful digital experiences with code**
 
